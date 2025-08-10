@@ -609,10 +609,3 @@ private void Toast(string message, float duration = 2f)
 ### Q: 注册失败怎么办？
 
 **A:** 检查网络连接，确认用户名未被占用，密码符合要求。如持续失败请联系客服。
-
-## 相关文档
-
-- [账号密码登录](./account-login.md)
-- [安全加密](./security-encryption.md)
-- [邮箱验证](./email-verification.md)
-- [错误处理](./error-handling.md)

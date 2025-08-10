@@ -532,10 +532,3 @@ void OnCreateGuildConfirm()
 - 帮助相同语言的玩家找到合适的工会
 - 不影响工会内的实际交流
 
-## 相关文档
-
-- [工会系统概述](./union-overview.md)
-- [加入工会流程](./union-joining.md)
-- [工会管理功能](./union-management.md)
-- [成员系统与权限](./member-system.md)
-- [API接口文档](./union-api.md)

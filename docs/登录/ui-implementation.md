@@ -508,7 +508,3 @@ UI Toolkit使用事件冒泡机制，注意事件传播。
 
 **A:** 检查USS文件是否正确引用，样式选择器是否正确，优先级是否被覆盖。
 
-## 相关文档
-
-- [错误处理](./error-handling.md)
-- [网络通信](./network-communication.md)

@@ -558,9 +558,3 @@ private void Fail(string msg)
 ### Q: 重连机制如何工作？
 
 **A:** 检测到断线后自动获取新JWT并重新建立WebSocket连接，最多重试5次。
-
-## 相关文档
-
-- [登录系统概述](./login-overview.md)
-- [玩家数据管理](./player-data.md)
-- [错误处理](./error-handling.md)

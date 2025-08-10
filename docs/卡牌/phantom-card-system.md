@@ -591,11 +591,3 @@ if (card.isPhantom) continue;
 5. **过期处理**
    - 定期检查过期时间
    - 过期后自动删除幻影卡
-
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [升级系统](./card-upgrade-system.md)
-- [升星系统](./card-star-system.md)
-- [封赏系统](./card-gift-system.md)

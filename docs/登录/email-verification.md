@@ -519,10 +519,3 @@ Toast("（示例）本地校验通过，待接入 API");
 ### Q: 倒计时30秒是否可配置？
 
 **A:** 目前硬编码为30秒，可以修改`ButtonCooldown`调用参数。
-
-## 相关文档
-
-- [账号密码登录](./account-login.md)
-- [注册系统](./register-system.md)
-- [安全加密](./security-encryption.md)
-- [错误处理](./error-handling.md)

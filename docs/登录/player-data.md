@@ -489,8 +489,3 @@ if (PlayerPrefs.HasKey("PlayerData_uid"))
 
 **A:** 不能。清除数据后需要重新登录。
 
-## 相关文档
-
-- [登录系统概述](./login-overview.md)
-- [网络通信](./network-communication.md)
-- [错误处理](./error-handling.md)

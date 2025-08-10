@@ -458,13 +458,3 @@ bool canManage = isLeader || isCoLeader;
 - 升级时根据概率随机选择一个小项升级
 - 可以刷新概率分布（消耗资源）
 
-## 相关文档
-
-- [创建工会流程](./union-creation.md)
-- [加入工会流程](./union-joining.md)
-- [成员系统与权限](./member-system.md)
-- [宝库系统](./treasury-system.md)
-- [科技树系统](./techtree-system.md)
-- [工会仓库](./inventory-system.md)
-- [广播事件机制](./union-broadcast.md)
-- [API接口文档](./union-api.md)

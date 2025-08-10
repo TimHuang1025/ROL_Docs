@@ -670,10 +670,3 @@ finally
    - 用户切换时清理数据
    - 取消事件订阅避免泄漏
 
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [主公卡系统](./lord-card-system.md)
-- [装备系统](./card-equipment-system.md)
-- [网络同步](./network-sync.md)

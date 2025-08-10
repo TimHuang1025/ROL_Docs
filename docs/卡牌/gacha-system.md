@@ -648,9 +648,3 @@ void ShowDrawResultSmart(List<string> drawDetails, JObject gains)
    - 响应式布局
    - 移动端手势支持
 
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [升星系统](./card-star-system.md)
-- [网络同步](./card-service.md)

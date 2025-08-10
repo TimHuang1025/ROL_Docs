@@ -758,10 +758,3 @@ public class LayoutSettings
 5. **事件处理**
    - 正确订阅和取消订阅事件
    - 避免内存泄漏
-
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [CardService](./card-service.md)
-- [UI系统](./card-ui-system.md)

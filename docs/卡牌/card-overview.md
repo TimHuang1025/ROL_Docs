@@ -451,12 +451,3 @@ Debug.Log("[PhantomClonePanel] ...");
 - 通用碎片：HeroCrest_SGeneral（S级通用）
 - 使用优先级：先用专属，再用通用补充
 
-## 相关文档
-
-- [卡牌数据模型](./card-data-model.md)
-- [升级系统](./card-upgrade-system.md)
-- [升星系统](./card-star-system.md)
-- [封赏系统](./card-gift-system.md)
-- [抽卡系统](./gacha-system.md)
-- [幻影卡系统](./phantom-card-system.md)
-- [装备系统](./card-equipment-system.md)

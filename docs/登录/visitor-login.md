@@ -327,10 +327,3 @@ PopupManager.Show("游客登录失败！\n" + msg);
 ### Q: 游客数据会保存多久？
 
 **A:** 取决于服务器策略，客户端只要设备ID不变就能登录同一账号。
-
-## 相关文档
-
-- [登录系统概述](./login-overview.md)
-- [账号密码登录](./account-login.md)
-- [网络通信](./network-communication.md)
-- [错误处理](./error-handling.md)

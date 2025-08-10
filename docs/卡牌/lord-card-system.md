@@ -682,10 +682,3 @@ void OnCardDataReady()
 5. **网络请求**
    - 所有操作通过LordCardService
    - 使用独立的API路径（lordcard_*）
-
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [装备系统](./card-equipment-system.md)
-- [CardService](./card-service.md)

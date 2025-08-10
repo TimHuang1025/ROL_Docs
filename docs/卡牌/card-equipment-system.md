@@ -703,9 +703,3 @@ if (pc.isPhantom)
    - 使用Dictionary缓存UUID映射
    - 批量更新减少UI刷新次数
 
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [封赏系统](./card-gift-system.md)
-- [升级系统](./card-upgrade-system.md)
-- [数据同步服务](./card-service.md)

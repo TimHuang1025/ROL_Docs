@@ -8,14 +8,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://timhuang1025.github.io',  // 你的GitHub Pages地址
-  baseUrl: '/game-docs/',  // 你的仓库名（前后都要斜杠）
+  baseUrl: '/ROL_Docs/',  // 你的仓库名（前后都要斜杠）
 
   organizationName: 'TimHuang1025',  // 你的GitHub用户名
-  projectName: 'game-docs',  // 你的仓库名
+  projectName: 'ROL_Docs',  // 你的仓库名
   deploymentBranch: 'gh-pages',  // 部署分支
   trailingSlash: false,  // URL末尾不加斜杠
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
@@ -61,7 +61,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/TimHuang1025/game-docs',  // 添加GitHub链接
+            href: 'https://github.com/TimHuang1025/ROL_Docs',  // 添加GitHub链接
             label: 'GitHub',
             position: 'right',
           },

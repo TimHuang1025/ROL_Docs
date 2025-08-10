@@ -350,8 +350,3 @@ string rsaResult = RsaEncryptBase64("dGVzdA==");
 
 **A:** 不能。客户端只有公钥，私钥在服务器端。
 
-## 相关文档
-
-- [账号密码登录](./account-login.md)
-- [注册系统](./register-system.md)
-- [网络通信](./network-communication.md)

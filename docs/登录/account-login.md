@@ -429,9 +429,3 @@ SpinController.Instance.Hide();
 
 **A:** 检查账号密码是否正确，确认网络连接正常。系统会通过PopupManager显示具体错误信息。
 
-## 相关文档
-
-- [注册系统](./register-system.md)
-- [邮箱验证](./email-verification.md)
-- [安全加密](./security-encryption.md)
-- [错误处理](./error-handling.md)

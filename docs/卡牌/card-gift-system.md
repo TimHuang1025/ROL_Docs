@@ -572,9 +572,3 @@ private List<GiftData> GetGiftItemsFromInventory()
    - 详细的错误码处理
    - 友好的错误提示
 
-## 相关文档
-
-- [卡牌系统概述](./card-overview.md)
-- [卡牌数据模型](./card-data-model.md)
-- [装备系统](./card-equipment-system.md)
-- [幻影卡系统](./phantom-card-system.md)
