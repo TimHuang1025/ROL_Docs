@@ -7,11 +7,13 @@ const config = {
   tagline: 'Unity战略游戏技术文档',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-site.com',  // 改成你的网址
-  baseUrl: '/',
+  url: 'https://timhuang1025.github.io',  // 你的GitHub Pages地址
+  baseUrl: '/game-docs/',  // 你的仓库名（前后都要斜杠）
 
-  organizationName: 'yourname',  // 你的GitHub用户名
-  projectName: 'game-docs',      // 你的仓库名
+  organizationName: 'TimHuang1025',  // 你的GitHub用户名
+  projectName: 'game-docs',  // 你的仓库名
+  deploymentBranch: 'gh-pages',  // 部署分支
+  trailingSlash: false,  // URL末尾不加斜杠
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -54,9 +56,14 @@ const config = {
             label: '系统文档',
             position: 'left',
             items: [
-              { label: '卡片系统', to: '/docs/systems/card' },
-              { label: '联盟系统', to: '/docs/systems/union' },
+              { label: '卡片系统', to: '/docs/卡牌' },  // 修改为实际路径
+              { label: '工会系统', to: '/docs/工会' },  // 修改为实际路径
             ],
+          },
+          {
+            href: 'https://github.com/TimHuang1025/game-docs',  // 添加GitHub链接
+            label: 'GitHub',
+            position: 'right',
           },
         ],
       },
